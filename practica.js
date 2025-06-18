@@ -59,7 +59,7 @@
 // let calification_num = Number(calification);
 // if(calification_num>5 || calification_num<0){
 //     prompt("Ingrese un numero valido");
-// } else if(calification_num>4 && calification _num<=5){
+// } else if(calification_num>4 && calification_num<=5){
 //     prompt("Excelente desempeño");
 //    } else if(calification_num > 3 && calification_num <=4){
 //         prompt("aprobo");
@@ -68,6 +68,28 @@
 //         prompt("reprobo");
 
 //    } 
+
+
+//7 Un semáforo tiene tres colores. Dependiendo del color, se debe mostrar una acción: avanzar, detenerse o esperar.
+
+
+
+
+
+
+
+
+//8 Para entrar a un torneo se debe tener entre 15 y 35 años y ser residente de Colombia. Evalúa si una persona puede participar.
+
+// let age = prompt("Ingrese su edad: "); 
+// let age_num = Number(age);
+  //if(age_num<0){
+    //console.log("No puede participar")
+  //}
+
+
+
+
 
 
 
